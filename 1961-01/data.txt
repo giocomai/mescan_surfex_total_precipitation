@@ -1,0 +1,5 @@
+path: https://github.com/giocomai/mescan_surfex_total_precipitation/releases/download/1961-01-6144cc1/1961-01.rds
+extension: rds
+description: Total precipitation - 1961-01 - UERRA regional reanalysis for Europe
+  on single levels
+type: files
