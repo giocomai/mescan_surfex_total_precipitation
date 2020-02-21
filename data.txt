@@ -4,3 +4,9 @@
   description: Total precipitation - 1961-01 - UERRA regional reanalysis for Europe
     on single levels
   type: files
+- path: 1961-02
+  name: 1961-02
+  extension: rds
+  description: Total precipitation - 1961-02 - UERRA regional reanalysis for Europe
+    on single levels
+  type: files
