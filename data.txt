@@ -1,9 +1,10 @@
 - path: 1961-01
   name: 1961-01
-  extension: rds
+  rows: 35425621
+  cols: 3
   description: Total precipitation - 1961-01 - UERRA regional reanalysis for Europe
     on single levels
-  type: files
+  type: table
 - path: 1961-02
   name: 1961-02
   extension: rds
