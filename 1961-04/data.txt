@@ -1,5 +1,12 @@
-path: https://github.com/giocomai/mescan_surfex_total_precipitation/releases/download/1961-04-994d10a/1961-04.rds
-extension: rds
+path:
+- https://github.com/giocomai/mescan_surfex_total_precipitation/releases/download/1961-04-c989062/data.csv
+- https://github.com/giocomai/mescan_surfex_total_precipitation/releases/download/1961-04-c989062/data.rds
+rows: 34282859
+cols: 3
+columns:
+  Latitude: numeric
+  Longitude: numeric
+  Value: numeric
 description: Total precipitation - 1961-04 - UERRA regional reanalysis for Europe
   on single levels
-type: files
+type: table
